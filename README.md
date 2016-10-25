@@ -1,1 +1,3 @@
 # ReutersSpider
+
+scrapy crawl reuters
